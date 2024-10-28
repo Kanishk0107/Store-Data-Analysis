@@ -28,9 +28,10 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 - Created pivot tables according to the questions asked.
 - Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
-
 ![Flowchart](https://github.com/user-attachments/assets/534a6ae8-f86d-423a-b238-7ba6d5b466f1)
 
 ## Dashboard
 
-![Uploading Screenshot 2024-10-28 013047.png…]()
+
+![Screenshot 2024-10-28 013047](https://github.com/user-attachments/assets/2bf0cd8f-9803-496e-bcbe-3a44cbb51a02)
+
