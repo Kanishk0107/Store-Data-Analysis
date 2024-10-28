@@ -33,5 +33,5 @@ The Store wants to create an annual sales report for 2022. So that, the owner of
 ## Dashboard
 
 
-![Screenshot 2024-10-28 013047](https://github.com/user-attachments/assets/2bf0cd8f-9803-496e-bcbe-3a44cbb51a02)
+![image](https://github.com/user-attachments/assets/d789dade-500e-4448-a0a6-6b3668d5c7d9)
 
